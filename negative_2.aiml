@@ -1,0 +1,19 @@
+<aiml version="1.0.1" encoding="UTF-8">
+ 
+   <category>
+       <pattern>I am going to *</pattern>
+       <template>I am not going to <star/>.</template>
+   </category>
+
+ <category>
+       <pattern>I am working at *</pattern>
+       <template>I am not working at <star/>.</template>
+   </category>
+   
+    <category>
+       <pattern>I am living in *</pattern>
+       <template>I am not living in <star/>.</template>
+   </category>
+   
+</aiml> 
+
